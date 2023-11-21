@@ -3,4 +3,4 @@ hanime1.me###player-div-wrapper > div:nth-child(6) > iframe
 hanime1.me###myHeader > div:first-child
 hanime1.me###myHeader > div:last-child
 hanime1.me###bottom-ads
-@@||*doppiocdn*^
+@@||*.doppiocdn.*^
