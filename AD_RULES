@@ -1,1 +1,6 @@
 hanime1.me###content-div > div.row.no-gutter.video-show-width:first-child > div.col-md-3.single-show-list:last-child > div.hidden-xs.hidden-sm:first-child
+hanime1.me###player-div-wrapper > div:nth-child(6) > iframe
+hanime1.me###myHeader > div:first-child
+hanime1.me###myHeader > div:last-child
+hanime1.me###bottom-ads
+@@||*doppiocdn*^
