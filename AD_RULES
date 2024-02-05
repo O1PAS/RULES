@@ -4,3 +4,4 @@ hanime1.me###myHeader > div:first-child
 hanime1.me###myHeader > div:last-child
 hanime1.me###bottom-ads
 @@||*.doppiocdn.*^
+@@||*.rsc.cdn77.org^
