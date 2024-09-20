@@ -6,3 +6,4 @@ uu-gg.one###ip_notice > div.bm
 @@||xszcdn.com^$domain=xsz-av.com
 hanime1.me###mobile-ad
 @@||a.magsrv.com^$domain=hanime1.me
+google.*##div.g:has(div[data-hveid] a[href*="facebook.com"])
